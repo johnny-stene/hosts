@@ -271,4 +271,6 @@
 127.0.0.1 ad.mirror.co.uk
 127.0.0.1 host3.adhese.be
 127.0.0.1 mcmads.mediacapital.pt
+127.0.0.1 androidpolice.com
+127.0.0.1 www.androidpolice.com
 #End code block
